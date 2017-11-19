@@ -1,3 +1,12 @@
+
+***
+
+YOU MUST RUN BOTH PYTHON SCRIPT AT THE SAME TIME.
+
+***
+
+
+
 General informations : 
 	Project goal : Use vision to control a led's brightness.
 	Languages used : Python & Arduino

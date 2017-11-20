@@ -119,7 +119,7 @@ while True:
     if center[0] != None and center[1] != None:
         cv.circle(img,center,10,(0,255,255),thickness=-2,lineType=8,shift=0)
 
-        value = temp + (start[1] - center[1]) / 2
+        value = temp + (start[1] - center[1]) /2
 
         if found == False:
             found = True

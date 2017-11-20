@@ -1,6 +1,6 @@
 import serial
 import time
-arduino = serial.Serial('COM4', 9600)
+arduino = serial.Serial('COM6', 9600)
 f = open('buffer.txt', 'r')
 
 def send_data(x):
